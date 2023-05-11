@@ -1,0 +1,3 @@
+find: ‘/c/Users/Nerea/AppData/Local/ElevatedDiagnostics’: Permission denied
+find: ‘/c/Users/Nerea/AppData/Local/Temp/msdtadmin’: Permission denied
+find: ‘/c/Users/Nerea/AppData/Local/Temp/WinSAT’: Permission denied
